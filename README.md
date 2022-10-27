@@ -59,42 +59,42 @@ p > α, 0.1589 > 0.05
 
 __Variables__: Cost, City Fuel Efficiency (MPG), Highway Fuel Efficiency (MPG), Horse Power, Maintenance Cost, and Safety Rating 
 __Research Questions__: 
-    a. How does MechaCar and its competitor differ in cost?
-    b. How does MechaCar and its competitor differ in city fuel efficiency?
-    c. How does MechaCar and its competitor differ in highway fuel efficiency?
-    d. How does MechaCar and its competitor differ in horse power?
-    e. How does MechaCar and its competitor differ in maintenance cost?
-    f. How does MechaCar and its competitor differ in safety rating?
+    1. How does MechaCar and its competitor differ in cost?
+    2. How does MechaCar and its competitor differ in city fuel efficiency?
+    3. How does MechaCar and its competitor differ in highway fuel efficiency?
+    4. How does MechaCar and its competitor differ in horse power?
+    5. How does MechaCar and its competitor differ in maintenance cost?
+    6. How does MechaCar and its competitor differ in safety rating?
 
 1. What metric or metrics are you going to test?
-    a. Cost
-    b. City Fuel Efficiency
-    c. Highway Fuel Efficiency
-    d. Horse Power
-    e. Maintenance Cost
-    f. Safety Rating
+    1. Cost
+    2. City Fuel Efficiency
+    3. Highway Fuel Efficiency
+    4. Horse Power
+    5. Maintenance Cost
+    6. Safety Rating
 2. What is the null hypothesis or alternative hypothesis?
-    a.  __Cost:__ Null Hypothesis (H₀: μ1 = μ2): MechaCar's cost is not different from its competitor.
+    1.  __Cost:__ Null Hypothesis (H₀: μ1 = μ2): MechaCar's cost is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's cost is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's cost is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's cost is statistically higher than its competitor.
-    b.  __City Fuel Efficiency:__ Null Hypothesis (H₀): MechaCar's city fuel efficiency (MPG) is not different from its competitor.
+    2.  __City Fuel Efficiency:__ Null Hypothesis (H₀): MechaCar's city fuel efficiency (MPG) is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's city fuel efficiency (MPG) is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's city fuel efficiency (MPG) is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's city fuel efficiency (MPG) is statistically higher than its competitor.
-    c.  __Highway Fuel Efficiency:__ Null Hypothesis (H₀): MechaCar's highway fuel efficiency (MPG) is not different from its competitor.
+    3.  __Highway Fuel Efficiency:__ Null Hypothesis (H₀): MechaCar's highway fuel efficiency (MPG) is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's highway fuel efficiency (MPG) is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's highway fuel efficiency (MPG) is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's highway fuel efficiency (MPG) is statistically higher than its competitor.
-    d.  __Horse Power:__ Null Hypothesis (H₀): MechaCar's horse power is not different from its competitor.
+    4.  __Horse Power:__ Null Hypothesis (H₀): MechaCar's horse power is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's horse power is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's horse power is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's horse power is statistically higher than its competitor.
-    e.  __Maintenance Cost:__ Null Hypothesis (H₀): MechaCar's maintenance cost is not different from its competitor.
+    5.  __Maintenance Cost:__ Null Hypothesis (H₀): MechaCar's maintenance cost is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's maintenance cost is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's maintenance cost is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's maintenance cost is statistically higher than its competitor.
-    f.  __Safety Rating:__ Null Hypothesis (H₀): MechaCar's safety rating is not different from its competitor.
+    6.  __Safety Rating:__ Null Hypothesis (H₀): MechaCar's safety rating is not different from its competitor.
         Research Hypothesis (H₁: μ1 ≠ μ2 (non-directional)): MechaCar's safety rating is statistically different from its competitor.
         Research Hypothesis (H₁: μ1 < μ2 (directional)): MechaCar's safety rating is statistically lower than its competitor.
         Research Hypothesis (H₁: μ1 > μ2 (directional)): MechaCar's safety rating is statistically higher than its competitor.
